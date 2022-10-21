@@ -1,12 +1,12 @@
 {  "Ads": [
     {
-       "select_main_ads": "STARTAPP",
+       "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"UNITY",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"Interstitial_Android",
-      "interval_intertitial": 1,
+      "interval_intertitial": 0,
       "initialize_sdk":"202858000",
       "initialize_sdk_backup_ads":"4554603",
       "high_paying_keyword_1": "",
